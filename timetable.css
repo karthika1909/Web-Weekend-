@@ -1,0 +1,44 @@
+body{
+    background-color:grey;
+}   
+
+table
+{
+    border-collapse: collapse;
+    width: 100%;
+    align-content: center;
+}
+table,tr,th,td{
+    border: 2px solid black;
+}
+tbody{
+    text-align: center;
+}
+.MWR{background-color: lightblue;}
+.CC{background-color: lightgreen;}
+.CS{background-color:lightgray;}
+.ITC{background-color: lightgoldenrodyellow;}
+.LAB{background-color: lightpink;}
+.OC{background-color:orange}
+.MEMS{background-color: lavender;}
+
+.days{
+font-weight: bold;
+color:black;
+background-color: white;
+}
+
+h1{
+    color:black;
+text-align: center;
+}
+.table1{
+    margin-top: 30px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*.extra{
+    background-color:;
+}*/
+
